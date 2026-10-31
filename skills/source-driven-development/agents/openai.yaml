@@ -1,4 +1,0 @@
-interface:
-  display_name: "Source-Driven Development"
-  short_description: "AI DevKit · Ground implementation decisions in official documentation"
-  default_prompt: "Use $source-driven-development to check this approach against the official documentation before we build it."
