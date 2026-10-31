@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve Codebase Architecture"
+  short_description: "AI DevKit · Find deepening opportunities and report them as HTML"
+  default_prompt: "Use $improve-codebase-architecture to scan this codebase for modules worth deepening."

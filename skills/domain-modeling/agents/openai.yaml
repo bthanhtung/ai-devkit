@@ -1,0 +1,4 @@
+interface:
+  display_name: "Domain Modeling"
+  short_description: "AI DevKit · Build and sharpen the domain model, glossary, and ADRs"
+  default_prompt: "Use $domain-modeling to sharpen the domain terms for this feature and update the glossary."
