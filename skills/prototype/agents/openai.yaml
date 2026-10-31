@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype"
+  short_description: "AI DevKit · Build a throwaway prototype to answer a design question"
+  default_prompt: "Use $prototype to build a quick throwaway prototype that answers this design question."

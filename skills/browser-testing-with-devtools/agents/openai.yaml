@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Testing with DevTools"
+  short_description: "AI DevKit · Test and debug in a real browser through Chrome DevTools MCP"
+  default_prompt: "Use $browser-testing-with-devtools to check this change in a real browser: console, network, DOM, and performance."

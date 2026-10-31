@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Pre-commit"
+  short_description: "AI DevKit · Husky + lint-staged pre-commit hooks with type checks and tests"
+  default_prompt: "Use $setup-pre-commit to add pre-commit hooks for formatting, type checks, and tests."

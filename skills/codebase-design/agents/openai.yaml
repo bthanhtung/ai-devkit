@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Design"
+  short_description: "AI DevKit · Shared vocabulary for designing deep modules"
+  default_prompt: "Use $codebase-design to review this module's interface and depth."

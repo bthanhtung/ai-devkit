@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shipping & Launch"
+  short_description: "AI DevKit · Prepare a change for a safe production launch"
+  default_prompt: "Use $shipping-and-launch to check this is ready for production: rollout, monitoring, and rollback."

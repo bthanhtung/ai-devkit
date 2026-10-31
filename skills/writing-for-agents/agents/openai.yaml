@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing for Agents"
+  short_description: "AI DevKit · Write skills, AGENTS.md, and CLAUDE.md that agents follow well"
+  default_prompt: "Use $writing-for-agents to tighten this skill or AGENTS.md so agents follow it reliably."

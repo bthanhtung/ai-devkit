@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend UI Engineering"
+  short_description: "AI DevKit · Build accessible, responsive, production-quality UIs"
+  default_prompt: "Use $frontend-ui-engineering to build this UI accessible, responsive, and production-ready."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Guardrails for Claude Code"
+  short_description: "AI DevKit · Hooks that block destructive git commands in Claude Code"
+  default_prompt: "Use $git-guardrails-claude-code to add hooks that block destructive git commands in this repo."
