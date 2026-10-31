@@ -1,4 +1,0 @@
-interface:
-  display_name: "Doubt-Driven Development"
-  short_description: "AI DevKit · Put non-trivial decisions through a fresh-context adversarial review"
-  default_prompt: "Use $doubt-driven-development to stress-test this decision with a fresh-context review before we commit to it."

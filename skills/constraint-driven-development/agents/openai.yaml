@@ -1,4 +1,0 @@
-interface:
-  display_name: "Constraint-Driven Development"
-  short_description: "AI DevKit · Write down the quality bar and stop agents lowering it"
-  default_prompt: "Use $constraint-driven-development to set up CONSTRAINTS.md and guard the quality bar on this project."

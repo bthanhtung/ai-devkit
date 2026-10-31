@@ -1,4 +1,0 @@
-interface:
-  display_name: "API & Interface Design"
-  short_description: "AI DevKit · Design stable APIs, module boundaries, and public interfaces"
-  default_prompt: "Use $api-and-interface-design to shape this API or public interface so it stays stable and hard to misuse."

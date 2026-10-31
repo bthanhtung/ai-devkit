@@ -1,4 +1,0 @@
-interface:
-  display_name: "Observability & Instrumentation"
-  short_description: "AI DevKit · Add logging, metrics, and tracing that make production debuggable"
-  default_prompt: "Use $observability-and-instrumentation to instrument this code so its production behavior is visible."
