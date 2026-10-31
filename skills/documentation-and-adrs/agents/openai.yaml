@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentation & ADRs"
+  short_description: "AI DevKit · Record architecture decisions and the reasoning behind them"
+  default_prompt: "Use $documentation-and-adrs to write an ADR for this decision."

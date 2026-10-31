@@ -1,0 +1,4 @@
+interface:
+  display_name: "CI/CD & Automation"
+  short_description: "AI DevKit · Set up or improve build, test, and deployment pipelines"
+  default_prompt: "Use $ci-cd-and-automation to set up or fix the CI/CD pipeline for this project."

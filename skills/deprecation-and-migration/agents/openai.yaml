@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deprecation & Migration"
+  short_description: "AI DevKit · Remove old systems and migrate users safely"
+  default_prompt: "Use $deprecation-and-migration to plan removing this old code path and migrating its callers."

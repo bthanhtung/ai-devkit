@@ -1,0 +1,4 @@
+interface:
+  display_name: "Performance Optimization"
+  short_description: "AI DevKit · Measure first, then optimize frontend, backend, and queries"
+  default_prompt: "Use $performance-optimization to find and fix the real bottleneck here, measuring before and after."
