@@ -1,0 +1,4 @@
+interface:
+  display_name: "draw.io Diagrams"
+  short_description: "AI DevKit · Cloud architecture and BPMN diagrams as .drawio files"
+  default_prompt: "Use $drawio to draw this architecture as a .drawio diagram."
